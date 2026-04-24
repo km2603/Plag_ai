@@ -556,11 +556,9 @@ MIT License — see [LICENSE](LICENSE) for details.
 
 ## Author
 
-**Rohan Deb**  
-Student ID: 23051452  
-Applications Development Laboratory  
-Kalinga Institute of Industrial Technology (KIIT), Deemed University  
-Supervisor: Jyoti Prakash Meher
+**Kushagra Mohan**  
+
+
 
 ---
 
